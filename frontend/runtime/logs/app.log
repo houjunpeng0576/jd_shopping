@@ -1,0 +1,230 @@
+2018-05-19 12:17:51 [192.168.1.103][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.103
+    in /data/web/apps/shopping.houge.com/frontend/views/layouts/main.php:80
+    in /data/web/apps/shopping.houge.com/frontend/controllers/SiteController.php:75
+2018-05-19 12:17:51 [192.168.1.103][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.103
+2018-05-19 12:17:51 [192.168.1.103][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'UM_distinctid' => '162a8eb4831136-0d75650cdf7878-336d7b05-fa000-162a8eb483235f'
+    'pgv_pvi' => '7446727680'
+    'pgv_si' => 's9232890880'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'shopping.houge.com'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'UM_distinctid=162a8eb4831136-0d75650cdf7878-336d7b05-fa000-162a8eb483235f; pgv_pvi=7446727680; pgv_si=s9232890880'
+    'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin'
+    'LD_LIBRARY_PATH' => '/usr/local/apache2/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) PHP/7.2.4'
+    'SERVER_NAME' => 'shopping.houge.com'
+    'SERVER_ADDR' => '192.168.1.4'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '192.168.1.103'
+    'DOCUMENT_ROOT' => '/data/web/apps/shopping.houge.com/frontend/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/data/web/apps/shopping.houge.com/frontend/web'
+    'SERVER_ADMIN' => '1643394646@qq.com'
+    'SCRIPT_FILENAME' => '/data/web/apps/shopping.houge.com/frontend/web/index.php'
+    'REMOTE_PORT' => '56046'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1526703471.309
+    'REQUEST_TIME' => 1526703471
+]
+2018-05-19 12:18:01 [192.168.1.103][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.103
+    in /data/web/apps/shopping.houge.com/frontend/views/layouts/main.php:80
+    in /data/web/apps/shopping.houge.com/frontend/controllers/SiteController.php:143
+2018-05-19 12:18:01 [192.168.1.103][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.103
+2018-05-19 12:18:01 [192.168.1.103][-][-][info][application] $_GET = [
+    'r' => 'site/about'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'UM_distinctid' => '162a8eb4831136-0d75650cdf7878-336d7b05-fa000-162a8eb483235f'
+    'pgv_pvi' => '7446727680'
+    'pgv_si' => 's9232890880'
+    'advanced-frontend' => 'o7bvl670a0jg94r3t75lpogscr'
+    '_csrf-frontend' => '098101a9309209164aa022873ccd716e863809e31352db811bb81a8b9223092da:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"boTEopzSOpEpwswKbu2-TyAM6nURwTkQ\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'shopping.houge.com'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://shopping.houge.com/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'UM_distinctid=162a8eb4831136-0d75650cdf7878-336d7b05-fa000-162a8eb483235f; pgv_pvi=7446727680; pgv_si=s9232890880; advanced-frontend=o7bvl670a0jg94r3t75lpogscr; _csrf-frontend=098101a9309209164aa022873ccd716e863809e31352db811bb81a8b9223092da%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22boTEopzSOpEpwswKbu2-TyAM6nURwTkQ%22%3B%7D'
+    'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin'
+    'LD_LIBRARY_PATH' => '/usr/local/apache2/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) PHP/7.2.4'
+    'SERVER_NAME' => 'shopping.houge.com'
+    'SERVER_ADDR' => '192.168.1.4'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '192.168.1.103'
+    'DOCUMENT_ROOT' => '/data/web/apps/shopping.houge.com/frontend/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/data/web/apps/shopping.houge.com/frontend/web'
+    'SERVER_ADMIN' => '1643394646@qq.com'
+    'SCRIPT_FILENAME' => '/data/web/apps/shopping.houge.com/frontend/web/index.php'
+    'REMOTE_PORT' => '56064'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Fabout'
+    'REQUEST_URI' => '/index.php?r=site%2Fabout'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1526703481.409
+    'REQUEST_TIME' => 1526703481
+]
+2018-05-19 12:18:09 [192.168.1.103][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.103
+    in /data/web/apps/shopping.houge.com/frontend/views/layouts/main.php:80
+    in /data/web/apps/shopping.houge.com/frontend/controllers/SiteController.php:143
+2018-05-19 12:18:09 [192.168.1.103][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.103
+2018-05-19 12:18:09 [192.168.1.103][-][-][info][application] $_GET = [
+    'r' => 'site/about'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'UM_distinctid' => '162a8eb4831136-0d75650cdf7878-336d7b05-fa000-162a8eb483235f'
+    'pgv_pvi' => '7446727680'
+    'pgv_si' => 's9232890880'
+    'advanced-frontend' => 'o7bvl670a0jg94r3t75lpogscr'
+    '_csrf-frontend' => '098101a9309209164aa022873ccd716e863809e31352db811bb81a8b9223092da:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"boTEopzSOpEpwswKbu2-TyAM6nURwTkQ\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'shopping.houge.com'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'UM_distinctid=162a8eb4831136-0d75650cdf7878-336d7b05-fa000-162a8eb483235f; pgv_pvi=7446727680; pgv_si=s9232890880; advanced-frontend=o7bvl670a0jg94r3t75lpogscr; _csrf-frontend=098101a9309209164aa022873ccd716e863809e31352db811bb81a8b9223092da%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22boTEopzSOpEpwswKbu2-TyAM6nURwTkQ%22%3B%7D'
+    'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin'
+    'LD_LIBRARY_PATH' => '/usr/local/apache2/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) PHP/7.2.4'
+    'SERVER_NAME' => 'shopping.houge.com'
+    'SERVER_ADDR' => '192.168.1.4'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '192.168.1.103'
+    'DOCUMENT_ROOT' => '/data/web/apps/shopping.houge.com/frontend/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/data/web/apps/shopping.houge.com/frontend/web'
+    'SERVER_ADMIN' => '1643394646@qq.com'
+    'SCRIPT_FILENAME' => '/data/web/apps/shopping.houge.com/frontend/web/index.php'
+    'REMOTE_PORT' => '56071'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site/about'
+    'REQUEST_URI' => '/index.php?r=site/about'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1526703489.458
+    'REQUEST_TIME' => 1526703489
+]
+2018-05-19 12:57:05 [192.168.1.103][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.103
+    in /data/web/apps/shopping.houge.com/frontend/views/layouts/main.php:80
+    in /data/web/apps/shopping.houge.com/frontend/controllers/SiteController.php:143
+2018-05-19 12:57:05 [192.168.1.103][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.103
+2018-05-19 12:57:05 [192.168.1.103][-][-][info][application] $_GET = [
+    'r' => 'site/about'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'UM_distinctid' => '162a8eb4831136-0d75650cdf7878-336d7b05-fa000-162a8eb483235f'
+    'pgv_pvi' => '7446727680'
+    'pgv_si' => 's9232890880'
+    'advanced-frontend' => 'o7bvl670a0jg94r3t75lpogscr'
+    '_csrf-frontend' => '098101a9309209164aa022873ccd716e863809e31352db811bb81a8b9223092da:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"boTEopzSOpEpwswKbu2-TyAM6nURwTkQ\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'shopping.houge.com'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'UM_distinctid=162a8eb4831136-0d75650cdf7878-336d7b05-fa000-162a8eb483235f; pgv_pvi=7446727680; pgv_si=s9232890880; advanced-frontend=o7bvl670a0jg94r3t75lpogscr; _csrf-frontend=098101a9309209164aa022873ccd716e863809e31352db811bb81a8b9223092da%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22boTEopzSOpEpwswKbu2-TyAM6nURwTkQ%22%3B%7D'
+    'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin'
+    'LD_LIBRARY_PATH' => '/usr/local/apache2/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) PHP/7.2.4'
+    'SERVER_NAME' => 'shopping.houge.com'
+    'SERVER_ADDR' => '192.168.1.4'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '192.168.1.103'
+    'DOCUMENT_ROOT' => '/data/web/apps/shopping.houge.com/frontend/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/data/web/apps/shopping.houge.com/frontend/web'
+    'SERVER_ADMIN' => '1643394646@qq.com'
+    'SCRIPT_FILENAME' => '/data/web/apps/shopping.houge.com/frontend/web/index.php'
+    'REMOTE_PORT' => '56671'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site/about'
+    'REQUEST_URI' => '/index.php?r=site/about'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1526705825.576
+    'REQUEST_TIME' => 1526705825
+]
